@@ -4,8 +4,6 @@
 
 document.addEventListener('DOMContentLoaded', function() {
 
-   document.addEventListener('DOMContentLoaded', function() {
-
     const toggle = document.getElementById("toggleSwitch");
 
     // ✅ Load saved mode
@@ -27,8 +25,6 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
-
-});
 
     
     // ============================================
